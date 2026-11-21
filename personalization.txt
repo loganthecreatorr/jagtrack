@@ -1,0 +1,26 @@
+JagTrack Module 1 - Written Reflection
+Student: [Your Name]
+Date: [Today's Date]
+
+CHOICE POINT #1: COLOR THEME
+Option Chosen: A
+Explanation: I chose the Jefferson Academy black and gold theme because it reflects the school's identity and presents a professional, consistent visual style. The black provides strong contrast and structure, while the gold adds warmth and emphasis. The muted gold accent reduces harshness and helps separate content. Dark text on the light background maintains readable contrast. These colors work together because they are limited to a clear brand palette.
+
+CHOICE POINT #2: ONE CHANGE THAT IS NOT A COLOR
+What I changed: I increased .class-card border-radius from 8px to 20px, increased padding from 1.5rem to 2.5rem, strengthened the shadow, and increased the hover lift from -3px to -10px.
+Why: These changes create larger, softer cards with more breathing room and a stronger interactive response. They make each class stand out without changing the information or content.
+Did it work the first time: Yes. The larger radius, padding, shadow, and hover movement are visible in the browser after refreshing.
+
+NEXT QUARTER PLANNING
+My Classes for Next Quarter:
+- A Block: Earth Science - 8:25 AM - 9:55 AM
+- B Block: French 1 - 10:00 AM - 11:30 AM
+- C Block: English Language Arts - 12:15 PM - 1:45 PM
+- D Block: PE - 1:50 PM - 3:20 PM
+
+Explanation: [Write 4-6 sentences explaining why you chose these classes, what you look forward to learning, which class may be challenging, how you would use a free period, and how the schedule supports your goals.]
+
+REFLECTION
+What I Learned: [Write 5-8 sentences reflecting on the Bootstrap grid, responsive breakpoints, CSS variables, customization, and what you would add to JagTrack in the future.]
+Hours Spent: [Approximate time]
+Accessibility Check: I reviewed the color choices and retained strong contrast between dark text and light backgrounds.
